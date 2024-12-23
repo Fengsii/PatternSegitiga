@@ -1,0 +1,7 @@
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\bin\Debug\SegitigaPattern.exe.config
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\bin\Debug\SegitigaPattern.exe
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\bin\Debug\SegitigaPattern.pdb
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\obj\Debug\SegitigaPattern.csproj.AssemblyReference.cache
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\obj\Debug\SegitigaPattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\obj\Debug\SegitigaPattern.exe
+C:\Users\DELL 7390\Documents\CSharp Lanjutan\SegitigaPattern\obj\Debug\SegitigaPattern.pdb
